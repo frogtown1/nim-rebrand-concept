@@ -6,3 +6,12 @@ In no way is this projected affiliated with Nim's official development pipeline,
 ![Image of concept design DNA](https://github.com/myrm-gh/nim-rebrand-concept/blob/master/myrm-leopard-rampant.png)
 
 ![Image of motif design concept](https://github.com/myrm-gh/nim-rebrand-concept/blob/master/myrm-leopard-pass-gua.png)
+
+## Fonts
+1. Brought by the criminally underrated work and amazing generosity of Kevin King of http://www.kingthingsfonts.co.uk/fonts/fonts.htm
+
+## Contributing
+Very much welcomed. Just follow the formatting conventions in the fonts and vectors folder to organize the collection, and be sure to credit yourself and anyone else involved.
+
+## Todo
+- Improve README to reflect a science-like approach to design decisions.
