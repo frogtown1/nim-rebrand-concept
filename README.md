@@ -3,3 +3,6 @@ In no way is this projected affiliated with Nim's official development pipeline,
 
 ![Image of Nim's text-logo concept](https://github.com/myrm-gh/nim-rebrand-concept/blob/master/myrm-logo-concept.png)
 
+![Image of concept design DNA](https://github.com/myrm-gh/nim-rebrand-concept/blob/master/myrm-leopard-rampant.png)
+
+![Image of motif design concept](https://github.com/myrm-gh/nim-rebrand-concept/blob/master/myrm-leopard-pass-gua.png)
