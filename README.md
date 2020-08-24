@@ -11,7 +11,7 @@ In no way is this projected affiliated with Nim's official development pipeline,
 1. Brought by the criminally underrated work and amazing generosity of Kevin King of http://www.kingthingsfonts.co.uk/fonts/fonts.htm
 
 ## Contributing
-Very much welcomed. Just follow the formatting conventions in the fonts and vectors folder to organize the collection, and be sure to credit yourself and anyone else involved.
+Very much welcomed. Just follow the formatting conventions in the fonts and vectors folder to organize the collection, and be sure to credit yourself and anyone else involved. Do make sure that all assets are royalty-free.
 
 ## Todo
 - Improve README to reflect a science-like approach to design decisions.
